@@ -1,0 +1,2 @@
+# CelebScrape
+Submission for Bipolar
