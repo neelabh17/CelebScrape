@@ -1,3 +1,3 @@
 # CelebScrape
-Scrapeing the web for finding celebraties and analysing their behaviour using trivial algorithm.
+ Scraping the web for finding Indian movie celebrities and analysing their behaviour using trivial algorithm.
 
